@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: slick-util.jar slick.jar jinput.jar lwjgl.jar lwjgl_test.j
+ ar lwjgl_util.jar jogg-0.0.7.jar jorbis-0.0.15.jar
+Main-Class: org.isma.pacman.PacmanGame
+
