@@ -1,6 +1,8 @@
 package org.isma.slick2d;
 
+import org.isma.slick2d.context.GameContext;
 import org.isma.slick2d.drawer.RenderableDrawer;
+import org.isma.slick2d.entity.GameObject;
 import org.newdawn.slick.Renderable;
 import org.newdawn.slick.SlickException;
 import org.newdawn.slick.SpriteSheet;

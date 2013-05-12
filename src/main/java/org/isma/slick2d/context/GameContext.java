@@ -1,4 +1,4 @@
-package org.isma.slick2d;
+package org.isma.slick2d.context;
 
 
 import java.awt.*;

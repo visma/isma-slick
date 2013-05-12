@@ -1,6 +1,6 @@
 package org.isma.slick2d.drawer;
 
-import org.isma.slick2d.GameContext;
+import org.isma.slick2d.context.GameContext;
 import org.isma.slick2d.tileset.TiledObject;
 import org.newdawn.slick.Graphics;
 import org.newdawn.slick.SlickException;

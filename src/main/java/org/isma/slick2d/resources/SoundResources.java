@@ -1,6 +1,5 @@
 package org.isma.slick2d.resources;
 
-import org.isma.slick2d.GameResourcesLoader;
 import org.isma.slick2d.sound.MusicPlayer;
 import org.newdawn.slick.Music;
 import org.newdawn.slick.SlickException;

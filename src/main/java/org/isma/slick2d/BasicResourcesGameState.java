@@ -1,5 +1,6 @@
 package org.isma.slick2d;
 
+import org.isma.slick2d.context.GameContext;
 import org.newdawn.slick.*;
 import org.newdawn.slick.imageout.ImageOut;
 import org.newdawn.slick.state.BasicGameState;

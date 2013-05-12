@@ -1,9 +1,8 @@
 package org.isma.slick2d.tileset;
 
-import org.isma.slick2d.GameContext;
-import org.isma.slick2d.GameObject;
+import org.isma.slick2d.context.GameContext;
+import org.isma.slick2d.entity.GameObject;
 import org.newdawn.slick.SlickException;
-import org.newdawn.slick.SpriteSheet;
 import org.newdawn.slick.geom.Rectangle;
 import org.newdawn.slick.tiled.TiledMap;
 

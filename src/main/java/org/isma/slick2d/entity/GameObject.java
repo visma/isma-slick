@@ -1,4 +1,6 @@
-package org.isma.slick2d;
+package org.isma.slick2d.entity;
+
+import org.isma.slick2d.context.GameContext;
 
 public abstract class GameObject<G extends GameContext> {
     protected final G context;

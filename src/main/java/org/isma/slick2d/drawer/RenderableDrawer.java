@@ -1,6 +1,6 @@
 package org.isma.slick2d.drawer;
 
-import org.isma.slick2d.GameContext;
+import org.isma.slick2d.context.GameContext;
 import org.newdawn.slick.Animation;
 import org.newdawn.slick.Color;
 import org.newdawn.slick.Image;

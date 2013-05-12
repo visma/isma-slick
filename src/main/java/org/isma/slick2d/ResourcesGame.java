@@ -1,5 +1,6 @@
 package org.isma.slick2d;
 
+import org.isma.slick2d.resources.GameResourcesLoader;
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.SlickException;
 import org.newdawn.slick.state.StateBasedGame;
